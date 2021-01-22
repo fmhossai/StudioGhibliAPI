@@ -1,0 +1,216 @@
+{
+  "flims": [
+    {
+      "id": 1,
+      "title": "Nausicaa of the Valley of the Wind",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/b/bc/Nausicaaposter.jpg",
+      "mal_score": 8.41,
+      "characters": [
+        {
+          "name": "Nausicaa"
+        },
+        {
+          "name": "Jihl"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Castle in the Sky",
+      "characters": [
+        {
+          "name": "Sheeta"
+        },
+        {
+          "name": "Pazu"
+        },
+        {
+          "name": "Dola"
+        },
+        {
+          "name": "Muska"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Grave of the Firefiles",
+      "characters": [
+        {
+          "name": "Setsuko Yokokawa"
+        },
+        {
+          "name": "Seita Yokokawa"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "My Neighbor Totoro",
+      "characters": [
+        {
+          "name": "Totoro"
+        },
+        {
+          "name": "Yasuko Kusakabe"
+        },
+        {
+          "name": "Satsuki Kusakabe"
+        },
+        {
+          "name": "Mei Kusakabe"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Kiki's Delivery Service",
+      "characters": [
+        {
+          "name": "Kiki"
+        },
+        {
+          "name": "Jiji"
+        },
+        {
+          "name": "Ursula"
+        },
+        {
+          "name": "Tombo Kopoli"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Only Yesterday",
+      "characters": [
+        {
+          "name": "Taeko Okajima"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Porco Rosso",
+      "characters": [
+        {
+          "name": "Marco Pagot"
+        },
+        {
+          "name": "Fio Piccolo"
+        },
+        {
+          "name": "Gina"
+        },
+        {
+          "name": "Donald Curtis"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Pom Poko",
+      "characters": [
+        {
+          "name": "Shoukichi"
+        },
+        {
+          "name": "Bunta"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Whisper of the Heart",
+      "characters": [
+        {
+          "name": "Shizuki Tsukishima"
+        },
+        {
+          "name": "Seiji Amasawa"
+        },
+        {
+          "name": "Baron Humbert von Gikkingen"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Princess Mononoke",
+      "characters": [
+        {
+          "name": "San"
+        },
+        {
+          "name": "Ashitaka"
+        },
+        {
+          "name": "Lady Eboshi"
+        },
+        {
+          "name": "Yakul"
+        },
+        {
+          "name": "Forest Spirit"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "My Neighbors the Yamadas",
+      "characters": []
+    },
+    {
+      "id": 12,
+      "title": "Spirited Away",
+      "characters": []
+    },
+    {
+      "id": 13,
+      "title": "The Cat Returns",
+      "characters": []
+    },
+    {
+      "id": 14,
+      "title": "Howl's Moving Castle",
+      "characters": []
+    },
+    {
+      "id": 15,
+      "title": "Tales from Earthsea",
+      "characters": []
+    },
+    {
+      "id": 16,
+      "title": "Ponyo",
+      "characters": []
+    },
+    {
+      "id": 17,
+      "title": "Arrietty",
+      "characters": []
+    },
+    {
+      "id": 18,
+      "title": "From Up on Poppy Hill",
+      "characters": []
+    },
+    {
+      "id": 19,
+      "title": "The Wind Rises",
+      "characters": []
+    },
+    {
+      "id": 20,
+      "title": "The Tale of the Princess Kaguya",
+      "characters": []
+    },
+    {
+      "id": 21,
+      "title": "When Marnie Was There",
+      "characters": []
+    }
+  ],
+  "founders": ["Hayao Miyazaki", "Toshio Suzuki", "Isao Takahata"],
+  "founded_year": "June 15, 1985"
+}
