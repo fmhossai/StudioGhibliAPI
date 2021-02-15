@@ -158,22 +158,76 @@
     {
       "id": 11,
       "title": "My Neighbors the Yamadas",
-      "characters": []
+      "characters": [
+        {
+          "name": "Noboru Yamada"
+        },
+        {
+          "name": "Shige Yamada"
+        },
+        {
+          "name": "Takashi Yamada"
+        },
+        {
+          "name": "Nonoko Yamada"
+        },
+        {
+          "name": "Matsuko Yamada"
+        }
+      ]
     },
     {
       "id": 12,
       "title": "Spirited Away",
-      "characters": []
+      "characters": [
+        {
+          "name": "No Face"
+        },
+        {
+          "name": "Haku"
+        },
+        {
+          "name": "Chihiro Ogino"
+        },
+        {
+          "name" : "Yubaba" 
+        },
+        {
+          "name": "Lin"
+        }
+      ]
     },
     {
       "id": 13,
       "title": "The Cat Returns",
-      "characters": []
+      "characters": [
+        {
+          "name": "Baron Humbert von Gikkingen"
+        },{
+          "name": "Haru Yoshioka"
+        }
+      ]
     },
     {
       "id": 14,
       "title": "Howl's Moving Castle",
-      "characters": []
+      "characters": [
+        {
+          "name": "Howl Jenkins Pendragon"
+        },
+        {
+          "name": "Sophie Hatter"
+        },
+        {
+          "name": "Calcifer"
+        },
+        {
+          "name": "Witch of the Waste"
+        },
+        {
+          "name": "Turnip Head"
+        }
+      ]
     },
     {
       "id": 15,
